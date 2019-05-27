@@ -1,0 +1,6 @@
+4	2
+x1	x2	o
+T	T	T
+T	F	F
+F	T	F
+F	F	F
